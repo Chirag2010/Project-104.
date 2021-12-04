@@ -1,0 +1,18 @@
+body{
+    color: whitesmoke;
+    background-color: #54bd20;
+}
+.heading{
+    font-size: 22px;
+}
+.name_of_people{
+    color: #ff6e0d;
+}
+#camera{
+border:2px dashed black;
+width: 350px;
+height: 300px;
+}
+#result_object_name,#result_object_accuracy{
+color: salmon;
+}
